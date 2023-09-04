@@ -31,3 +31,5 @@
 - 'customer_list_RMF.csv' - This is the output for section 3 of the report. This file segments customers based on RFM (Recency, Frequency & Monetary).
 - 'Market_basket-analysis_results.csv' - This is the output of the Market Basket Analysis
 
+
+Created by Fouad Farraj
